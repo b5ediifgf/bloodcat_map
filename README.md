@@ -13,14 +13,9 @@
 * 🐧 Linux (включая Kali Linux)
 * 💻 Unix / Windows
 
-## 🛠️ Установка и запуск
+# Как установить
 
-1. Склонируйте репозиторий к себе на устройство:
-git clone https://github.com/b5ediifgf/bloodcat_map.git
-cd bloodcat_map
-
-2. Установите необходимую библиотеку для работы с картами:
-pip install folium --break-system-packages
-
-3. Запустите программу:
-python3 bloodcat_map.py
+* Откройте терминал и введите `<pip install folium --break-system-packages>`
+* Затем `<git clone https://github.com/b5ediifgf/bloodcat_map.git>`
+* `<cd bloodcat_map>`
+* `<python3 bloodcat_map.py>`
